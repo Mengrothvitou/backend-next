@@ -1,2 +1,0 @@
-const Products= require('./../productModel')
-
